@@ -2,7 +2,7 @@
 
 Submitted by: **Tiffany Akinyoade**
 
-**Color Chanter** is an app that contains a color changer button: when users click the button, the background color of the app is changed to a randomly generated color.
+**Color Changer** is an app that contains a color changer button: when users click the button, the background color of the app is changed to a randomly generated color.
 
 Time spent: **1** hours spent in total
 
@@ -27,7 +27,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2025] [Tiffany Akinyoade ]
+    Copyright [2025] [Tiffany Akinyoade]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
